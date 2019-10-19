@@ -1,3 +1,9 @@
 #!/usr/bin/env python 
 
-print('Hello, everyone')
+import sys
+
+def greet(name):
+	print "Hello, ",name,"!"
+	return;
+
+greet(str(sys.argv[1]))
