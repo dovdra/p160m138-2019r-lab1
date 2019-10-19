@@ -1,3 +1,3 @@
 #!/usr/bin/env python
 
-print('Hello, everyone!')
+print('Hello, students!')
